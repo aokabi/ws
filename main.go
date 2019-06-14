@@ -1,7 +1,7 @@
 package main
 
 import (
-	"my/ws/websocket"
+	"ws/websocket"
 	"net"
 	"net/http"
 	"time"
